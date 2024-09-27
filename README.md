@@ -6,9 +6,9 @@
 
 ###### Motivation: To build an AI model for cervical cancer detection, especially in low-resource settings
 
-###### Problem Statement
+###### Problem Statement: Ca-Cx screening is a tedious test that is prone to inter-observer variability.
 
-###### Limitations:
+###### Limitations: 
 
 ###### Challenges
 
